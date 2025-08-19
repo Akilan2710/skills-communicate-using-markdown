@@ -9,7 +9,9 @@ This is another comment
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# this is a list
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
 
